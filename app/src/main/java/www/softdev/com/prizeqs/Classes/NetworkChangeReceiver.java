@@ -15,6 +15,6 @@ public class NetworkChangeReceiver extends BroadcastReceiver {
         String status = NetworkUtil.getConnectivityStatusString(context);
 
         Toast.makeText(context, status, Toast.LENGTH_LONG).show();
-        
+
     }
 }

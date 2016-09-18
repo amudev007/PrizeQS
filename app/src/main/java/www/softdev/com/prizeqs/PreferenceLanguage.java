@@ -44,7 +44,7 @@ public class PreferenceLanguage extends IntroActivity {
             addSlide(new SimpleSlide.Builder()
                     .title(R.string.dummy_content)
                     .description(R.string.dummy_button)
-                    .image(R.drawable.ic_menu_slideshow)
+                    .image(R.drawable.)
                     .background(R.color.black_overlay)
                     .backgroundDark(R.color.colorPrimary)
                     .permission(Manifest.permission.CAMERA)
