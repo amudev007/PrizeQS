@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrizeQS</string>
+
+    <string name="title_activity_tour_placeholder">TourPlaceholder</string>
+    <string name="dummy_button">आगे बढे....</string>
+    <string name="dummy_content">यहां पर अपना \n टूर चालू होगा</string>
+    <string name="title_activity_prize_q">PrizeQ</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
